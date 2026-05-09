@@ -1,17 +1,17 @@
-# 📚 BookStore – Online Book Shop with Factory Pattern
+BookStore – Online Book Shop with Factory Pattern
 
 > Online bookstore built with Node.js, Express, and the Factory design pattern.
 
-## ✨ Features
+Features
 
-- 📖 Book catalog with genres (detective, fantasy, romance, IT)
-- 🛒 Shopping cart with **localStorage** persistence
-- 🏭 **Factory pattern** for creating different book formats
-- 🌐 REST API with Node.js + Express
-- 💾 Data stored in JSON file
-- 📱 Responsive frontend (HTML, CSS, JS)
+- Book catalog with genres (detective, fantasy, romance, IT)
+- Shopping cart with **localStorage** persistence
+- Factory pattern** for creating different book formats
+- REST API with Node.js + Express
+- Data stored in JSON file
+- Responsive frontend (HTML, CSS, JS)
 
-## 🛠️ Tech Stack
+Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -20,7 +20,7 @@
 | Pattern | **Factory Method** |
 | Storage | JSON file + localStorage |
 
-## 🚀 Run Locally
+Run Locally
 
 ```bash
 git clone https://github.com/Sabinochkaaa/BookStore-Factory-Pattern.git
